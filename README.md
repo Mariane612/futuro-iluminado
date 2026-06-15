@@ -119,7 +119,7 @@ Todo o conteúdo deste site foi produzido com o apoio de ferramentas de intelig�
 | **Logo do site** (`logo.png`) | Totalmente autoral, desenhada à mão por **Mariane Santos Alves**, sem uso de IA |
 | **Imagens da galeria** (`img1.jpeg`, `img4.jpg`, `img5.jpg`, `img6.jpg`, `img7.jpg`) | Fornecidas pela **Agroindústria Vô Almerindo** (autorização para fins educacionais) |
 | **Imagem de destaque** (`inicio.png`) | Criada com auxílio do **ChatGPT (OpenAI)** |
-| **Áudio** (`audiohistoria.ogg`) | Produção própria, com roteiro baseado em entrevistas e informações da Agroindústria Vô Almerindo |
+| **Áudio** (`audiohistoria.ogg`) | Produção própria, baseado em entrevistas e informações da Agroindústria Vô Almerindo |
 | **Textos do site** | Elaborados a partir de pesquisas em artigos científicos, sites especializados e com suporte do **Google Notebook LM** (organização e síntese) |
 | **Vídeo** (`Agroindustria.mp4`) | Criado com auxílio do **Google Notebook LM**, utilizando素材 e roteiro baseados em dados reais |
 | **Programação** (HTML, CSS, JavaScript) | Desenvolvida com assistência das IAs **Google Gemini** e **DeepSeek**, sob supervisão e curadoria da estudante |
