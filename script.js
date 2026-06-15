@@ -204,11 +204,11 @@ window.addEventListener('load', revealOnScroll);
 // ============================================
 
 const carouselItems = [
-  { src: './img/img1.jpeg' },
-  { src: './img/img4.jpg' },
-  { src: './img/img5.jpg' },
-  { src: './img/img6.jpg' },
-  { src: './img/img7.jpg' }
+  { src: 'img1.jpeg' },
+  { src: 'img4.jpg' },
+  { src: 'img5.jpg' },
+  { src: 'img6.jpg' },
+  { src: 'img7.jpg' }
 ];
 
 let currentIndex = 0;
